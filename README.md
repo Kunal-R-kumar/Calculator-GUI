@@ -20,4 +20,4 @@
   - Enter key for calculating result of expression
   - Esc Key for clearing whole expression
   - Backspace key for clearing 1 prior element to the cursor
-> **Note:** You can use keyboard for entering input .
+> **Note:** You can use keyboard for using it .
