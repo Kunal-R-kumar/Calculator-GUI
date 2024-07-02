@@ -1,7 +1,7 @@
 # codsoft_Task2
 **Task 2 assigned by codsoft :- creation of a Calculator using python**
 
-**This project contains a basic calculator that performs :**
+**This project contains a basic GUI calculator that performs :**
   1. Addition
   2. Subtraction
   3. Multiplication
