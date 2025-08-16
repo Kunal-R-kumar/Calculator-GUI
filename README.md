@@ -1,5 +1,4 @@
-# codsoft_Task2
-**Task 2 assigned by codsoft :- creation of a Calculator using python**
+# Calculator - GUI using python**
 
 **This project contains a basic GUI calculator that performs :**
   1. Addition
@@ -20,4 +19,5 @@
   - Enter key for calculating result of expression
   - Esc Key for clearing whole expression
   - Backspace key for clearing 1 prior element to the cursor
+  - Numeric keypad also helps you to compose expressions and getting answer
 > **Note:** You can use keyboard for using it .
