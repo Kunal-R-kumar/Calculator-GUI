@@ -21,3 +21,4 @@
   - Backspace key for clearing 1 prior element to the cursor
   - Numeric keypad also helps you to compose expressions and getting answer
 > **Note:** You can use keyboard for using it .
+<img width="440" height="595" alt="image" src="https://github.com/user-attachments/assets/5df8db83-4e3a-4213-b9a1-129c1848e5c2" />
